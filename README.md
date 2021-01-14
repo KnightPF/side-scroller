@@ -1,2 +1,2 @@
-# side-scroller
-Side scroller project for computer science course.
+# The adventures of joe whale
+A side scroller project for computer science course.
